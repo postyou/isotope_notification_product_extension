@@ -1,2 +1,2 @@
 # Isotope Notification Product Extension
-Little contao 3 isotope extension to make notificationes depended on products possible
+Little contao isotope extension to make notifications depending on products possible
